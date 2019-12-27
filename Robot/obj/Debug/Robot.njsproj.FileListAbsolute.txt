@@ -1,0 +1,3 @@
+C:\Users\chrys\source\repos\Robot\Robot\obj\Debug\Robot.njsprojAssemblyReference.cache
+C:\Users\chrys\source\repos\Robot\Robot\obj\Debug\Robot.njsproj.CoreCompileInputs.cache
+C:\Users\chrys\source\repos\Robot\Robot\bin\Microsoft.NodejsTools.WebRole.dll
