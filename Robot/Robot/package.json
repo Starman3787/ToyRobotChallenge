@@ -1,0 +1,12 @@
+{
+  "name": "robot",
+  "version": "0.0.0",
+  "description": "Robot",
+  "main": "app.js",
+  "author": {
+    "name": "James Chrysaphiades"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
